@@ -1,0 +1,276 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+form
+</name>
+</assembly>
+<members>
+<member name="T:form.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:form.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:form.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet.ChemicalDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet.EquipmentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet.ExperimentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet.loginDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet.ChemicalRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet.EquipmentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet.ExperimentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet.loginRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet.ChemicalRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet.EquipmentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet.ExperimentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet.loginRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSetTableAdapters.ChemicalTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSetTableAdapters.EquipmentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSetTableAdapters.ExperimentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSetTableAdapters.loginTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:form.ScienceInventoryDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(form.ScienceInventoryDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:form.ScienceInventoryDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(form.ScienceInventoryDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:form.ScienceInventoryDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(form.ScienceInventoryDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:form.ScienceInventoryDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:form.ScienceInventoryDataSetTableAdapters.TableAdapterManager.UpdateAll(form.ScienceInventoryDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet1.chemicalDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet1.equipmentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet1.experimentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet1.loginDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet1.chemicalRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet1.equipmentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet1.experimentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet1.loginRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet1.chemicalRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet1.equipmentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet1.experimentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet1.loginRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet1TableAdapters.chemicalTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet1TableAdapters.equipmentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet1TableAdapters.experimentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet1TableAdapters.loginTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:form.ScienceInventoryDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(form.ScienceInventoryDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:form.ScienceInventoryDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(form.ScienceInventoryDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:form.ScienceInventoryDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(form.ScienceInventoryDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:form.ScienceInventoryDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:form.ScienceInventoryDataSet1TableAdapters.TableAdapterManager.UpdateAll(form.ScienceInventoryDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:form.ScienceInventoryDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2015\Projects\form\form\bin\Debug\form.exe.config
+C:\Users\user\documents\visual studio 2015\Projects\form\form\bin\Debug\form.exe
+C:\Users\user\documents\visual studio 2015\Projects\form\form\bin\Debug\form.pdb
+C:\Users\user\documents\visual studio 2015\Projects\form\form\bin\Debug\form.xml
+C:\Users\user\documents\visual studio 2015\Projects\form\form\obj\Debug\form.vbprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2015\Projects\form\form\obj\Debug\form.Form1.resources
+C:\Users\user\documents\visual studio 2015\Projects\form\form\obj\Debug\form.Labfrm.resources
+C:\Users\user\documents\visual studio 2015\Projects\form\form\obj\Debug\form.Loginfrm.resources
+C:\Users\user\documents\visual studio 2015\Projects\form\form\obj\Debug\form.Resources.resources
+C:\Users\user\documents\visual studio 2015\Projects\form\form\obj\Debug\form.vbproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2015\Projects\form\form\obj\Debug\form.exe
+C:\Users\user\documents\visual studio 2015\Projects\form\form\obj\Debug\form.xml
+C:\Users\user\documents\visual studio 2015\Projects\form\form\obj\Debug\form.pdb
